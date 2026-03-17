@@ -1,2 +1,2 @@
-# Kodlama Okur Yazarlığı 
-Kodlama okur yazarlığı ödev #1
+# Kodlama Okuryazarlığı 
+Kodlama okuryazarlığı ödev #1
